@@ -1,5 +1,5 @@
 # landscape short name; use the project slug here
-landscapeName: OpenWallet
+landscapeName: openwalletfoundation
 # Update with your membership structure
 landscapeMemberClasses:
    - name: Premier Sponsorship
